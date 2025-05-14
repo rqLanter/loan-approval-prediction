@@ -338,7 +338,7 @@ with open('templates/result.html', 'w') as f:
 
 # 6. Запуск Flask с ngrok
 # Установка токена
-ngrok.set_auth_token("2woWGW6DVNHCocqUzZxiGFoRj7N_3Z9PvVFz92w2eAn9d4dVJ")
+ngrok.set_auth_token("") # УСТАНОВИТЕ ВАШ ТОКЕН!!!
 
 # Запуск Flask в фоне
 import threading
