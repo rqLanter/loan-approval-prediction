@@ -80,5 +80,5 @@ python code.py
 ### 2. Пример заполнения заявки (хороший заёмщик)
 ![image](https://github.com/user-attachments/assets/b0c644ce-d8e2-4f75-9efa-e5aabe512054)
 ### 3. Результат обработки заявки
-Результат:![image](https://github.com/user-attachments/assets/c24fe0f0-3c8a-4ed0-bea9-c339daaae5fd)
+![image](https://github.com/user-attachments/assets/c24fe0f0-3c8a-4ed0-bea9-c339daaae5fd)
 
