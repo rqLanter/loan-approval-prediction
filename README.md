@@ -6,8 +6,7 @@
 - Прогноз вероятности одобрения кредита (0-100%)
 - Обработка 11 признаков (числовые и категориальные)
 - Визуализация важности признаков
-- Интерактивный веб-интерфейс с формой заявки
-- Поддержка как одиночных, так и пакетных предсказаний
+- Веб-интерфейс с формой заявки
 
 ## Технологии:
 - Python 3.8+
@@ -55,10 +54,7 @@ python app.py
 git clone https://github.com/rqLanter/loan-approval-prediction.git 
 cd loan-approval-prediction
 ```
-Установите зависимости :
-```
-pip install -r requirements.txt
-```
+
 Поместите данные :
 Добавьте loan_approval_dataset.csv в папку data/ (или в папку проекта)
 
@@ -70,6 +66,7 @@ python code.py
 
 
 ## Результаты работы программы
+**Распределение признаков**:
 ![image](https://github.com/user-attachments/assets/c40188a2-89f1-41e4-a2fb-e64d1523f998)
 ![image](https://github.com/user-attachments/assets/c3761ebb-5a77-41d4-992c-d1817d5cda01)
 ![image](https://github.com/user-attachments/assets/486ae085-c866-48c6-bb67-cdadfeaee545)
@@ -81,4 +78,8 @@ python code.py
 ![image](https://github.com/user-attachments/assets/b0c644ce-d8e2-4f75-9efa-e5aabe512054)
 ### 3. Результат обработки заявки
 ![image](https://github.com/user-attachments/assets/c24fe0f0-3c8a-4ed0-bea9-c339daaae5fd)
+### 4. Пример заполнения заявки (плохой заёмщик)
+![Снимок экрана 2025-05-14 222422](https://github.com/user-attachments/assets/40ed5f50-fd6b-4fc6-8471-162254c7b79e)
+### 5. Результат обработки заявки
+![image](https://github.com/user-attachments/assets/a41e328e-65ae-413d-958f-47d5ff5749ab)
 
