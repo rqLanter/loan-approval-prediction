@@ -75,7 +75,10 @@ python code.py
 ![image](https://github.com/user-attachments/assets/486ae085-c866-48c6-bb67-cdadfeaee545)
 ![image](https://github.com/user-attachments/assets/67cc1710-e1ab-4d09-8f8f-7709e8d6e013)
 
-Форма заполнения заявки:![image](https://github.com/user-attachments/assets/0de7da24-eb66-46b4-9be8-6d30a6ee28b5)
-Пример её заполнения (хороший заёмщик):![image](https://github.com/user-attachments/assets/b0c644ce-d8e2-4f75-9efa-e5aabe512054)
+### 1. Форма заполнения заявки
+![image](https://github.com/user-attachments/assets/0de7da24-eb66-46b4-9be8-6d30a6ee28b5)
+### 2. Пример заполнения заявки (хороший заёмщик)
+![image](https://github.com/user-attachments/assets/b0c644ce-d8e2-4f75-9efa-e5aabe512054)
+### 3. Результат обработки заявки
 Результат:![image](https://github.com/user-attachments/assets/c24fe0f0-3c8a-4ed0-bea9-c339daaae5fd)
 
